@@ -1,2 +1,2 @@
-## Project: Capstone Project
+## Capstone Project
 
